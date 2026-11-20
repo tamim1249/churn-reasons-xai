@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Predicting Who Leaves Is Not Knowing Why: Validating Churn-Model Explanations Against Customers' Stated Reasons (code)"
+type: software
+license: MIT
+date-released: 2026-11-20
+authors:
+  - given-names: "Md Mostafizur"
+    family-names: "Rahman"
+    affiliation: "Lamar University"
+  - given-names: "Md Jubaer"
+    family-names: "Mahmud"
+    affiliation: "Southern New Hampshire University"
+  - given-names: "Sadia"
+    family-names: "Akter"
+    affiliation: "Lamar University"
+  - given-names: "Muhammad Azad"
+    family-names: "Siddiqui"
+    affiliation: "Belhaven University"
+  - given-names: "Sharifur"
+    family-names: "Rahman"
+    affiliation: "University of Central Oklahoma"
+  - given-names: "Md Eamam"
+    family-names: "Hasan"
+    affiliation: "International American University"
+  - given-names: "Rahat"
+    family-names: "Hasan"
+    affiliation: "Westcliff University"
+  - given-names: "Tanvir"
+    family-names: "Ahammad"
+    affiliation: "University of the Potomac"
+  - given-names: "Md. Monir Hossain"
+    family-names: "Shimul"
+    affiliation: "Daffodil International University"
+  - given-names: "Tamim"
+    family-names: "Mahmud"
+    affiliation: "Daffodil International University"
+    email: "mahmud23105101249@diu.edu.bd"
+keywords:
+  - customer churn
+  - explainable artificial intelligence
+  - SHAP
+  - counterfactual explanations
+  - retention analytics
+preferred-citation:
+  type: article
+  title: "Predicting Who Leaves Is Not Knowing Why: Validating Churn-Model Explanations Against Customers' Stated Reasons"
+  status: submitted
+  year: 2026
+  authors:
+    - {given-names: "Md Mostafizur", family-names: "Rahman"}
+    - {given-names: "Md Jubaer", family-names: "Mahmud"}
+    - {given-names: "Sadia", family-names: "Akter"}
+    - {given-names: "Muhammad Azad", family-names: "Siddiqui"}
+    - {given-names: "Sharifur", family-names: "Rahman"}
+    - {given-names: "Md Eamam", family-names: "Hasan"}
+    - {given-names: "Rahat", family-names: "Hasan"}
+    - {given-names: "Tanvir", family-names: "Ahammad"}
+    - {given-names: "Md. Monir Hossain", family-names: "Shimul"}
+    - {given-names: "Tamim", family-names: "Mahmud"}
